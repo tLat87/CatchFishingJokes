@@ -79,7 +79,7 @@ android {
 
     namespace "com.catchfishingjokes"
     defaultConfig {
-        applicationId "com.catchfishingjokes"
+        applicationId "com.fishinfrenzy.frenzy.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
